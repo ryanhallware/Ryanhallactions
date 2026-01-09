@@ -7,3 +7,4 @@ Github Actions made by Ryan Hall, <ryan.hall@wiz.io>
   * DEPENDENCIES:
     * `secrets.CLIENT_ID` - Wiz Service Account Client ID
     * `secrets.CLIENT_SECRET` - Wiz Service Account Client Secret
+
